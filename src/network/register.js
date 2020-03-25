@@ -2,7 +2,7 @@ import {request} from "./request";
 
 export function registerUser(userName,passWord) {
   return request({
-    url:'',
+    url:'/user/register',
     method:'post',
     data:{
       userName:userName,

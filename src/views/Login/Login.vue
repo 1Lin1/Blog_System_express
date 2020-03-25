@@ -126,7 +126,7 @@
     
     .loadbtn-group{
       margin-top: 1rem;
-      margin-left: 4rem;
+      margin-left: 3rem;
     }
   }
 </style>
